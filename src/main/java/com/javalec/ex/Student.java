@@ -7,6 +7,10 @@ public class Student {
 	private int grade;
 	private int studentNum;
 	
+	public Student() {
+		
+	}
+	
 	
 	
 	public String getName() {
